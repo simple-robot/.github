@@ -13,4 +13,6 @@ jobs:
           dst_token: ${{ secrets.GITEE_TOKEN }}
           account_type: org
           white_list: simbot-component-mirai,simbot-component-tencent-guild,simbot-examples,simbot-mirai-login-helper
-
+          debug: true
+          timeout: '1h'
+          
