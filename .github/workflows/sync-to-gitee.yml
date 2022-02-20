@@ -16,7 +16,8 @@ jobs:
           dst: gitee/simple-robot-project
           dst_key: ${{ secrets.SSH_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
-          white_list: simbot-component-mirai
+          white_list: simbot-component-mirai,simbot-component-tencent-guild,simbot-component-kaiheila,simbot-examples,simbot-mirai-login-helper
           account_type: org
+          debug: true
           force_update: true
           
