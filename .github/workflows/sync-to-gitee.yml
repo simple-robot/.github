@@ -10,7 +10,7 @@ jobs:
     steps:
             
       - name: Mirror the GitHub repos to Gitee
-        uses: Yikun/hub-mirror-action@v1
+        uses: Yikun/hub-mirror-action@v1.2
         with:
           src: github/simple-robot
           dst: gitee/simple-robot-project
