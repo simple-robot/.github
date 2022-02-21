@@ -19,7 +19,7 @@ jobs:
           static_list: simbot-component-mirai,simbot-component-tencent-guild,simbot-component-kaiheila,simbot-examples,simbot-mirai-login-helper
           account_type: org
           debug: true
-          force_update: true
-          clone_style: https
-          cache_path: /github/workspace/hub-mirror-cache
+          # force_update: true
+          # clone_style: https
+          # cache_path: /github/workspace/hub-mirror-cache
           
