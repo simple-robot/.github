@@ -12,7 +12,7 @@
 |:----|:----|:--------|:--------|
 | 腾讯频道组件 | [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [腾讯频道组件 API文档](https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc) |
 | mirai组件 | [simbot-component-mirai](https://github.com/simple-robot/simbot-component-mirai) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [mirai组件 API文档](https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc) |
-| 开黑啦组件 | [simbot-component-kaiheila](simbot-component-kaiheila) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [开黑啦组件 API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc) |
+| 开黑啦组件 | [simbot-component-kaiheila](https://github.com/simple-robot/simbot-component-kaiheila) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [开黑啦组件 API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc) |
 
 
 
