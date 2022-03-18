@@ -4,13 +4,18 @@
 
 也许你会觉得这样的介绍实在是太寒酸了，但是没有关系，在遥远的未来，我会继续完善这里的说明的。
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 组件引导
+
+| 组件 | 仓库 | 使用手册 | api文档 |
+|:----|:----|:--------|:--------|
+| 腾讯频道组件 | [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [腾讯频道组件 API文档](https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc) |
+| mirai组件 | [simbot-component-mirai](https://github.com/simple-robot/simbot-component-mirai) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [mirai组件 API文档](https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc) |
+| 开黑啦组件 | [simbot-component-kaiheila](simbot-component-kaiheila) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [开黑啦组件 API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc) |
+
+
+
+
+
+
