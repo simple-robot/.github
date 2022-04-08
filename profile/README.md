@@ -15,7 +15,8 @@
 | 开黑啦组件 | [simbot-component-kaiheila](https://github.com/simple-robot/simbot-component-kaiheila) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc) |
 
 
-
+## 图书馆
+如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [📚 图书馆](https://github.com/simple-robot-library) 看看~
 
 
 
