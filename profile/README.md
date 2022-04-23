@@ -29,7 +29,7 @@
 <tbody>
 <tr>
 <td>腾讯频道组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">simbot-component-tencent-guild</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉 前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc">API文档</a>
@@ -48,7 +48,7 @@
 
 <tr>
 <td>mirai组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">simbot-component-mirai</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉 前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc">API文档</a>
@@ -67,7 +67,7 @@
 
 <tr>
 <td>开黑啦组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-kaiheila" target="_blank">simbot-component-kaiheila</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-kaiheila" target="_blank">👉 前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
