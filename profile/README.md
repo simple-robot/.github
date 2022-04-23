@@ -17,7 +17,7 @@
     <th rowspan="2">使用手册</th>
     <th rowspan="2">api文档</th>
     <th colspan="2">
-版本信息 <small style="font-size: 10px"><i>仅供参考</i></small>
+版本信息 <small><sub><i>仅供参考</i></sub></small>
 
 </th>
   </tr>
