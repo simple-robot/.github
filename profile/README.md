@@ -36,7 +36,7 @@
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-tencent-guild-core/">
-<img alt="腾讯频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=release">
+<img alt="腾讯频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=releases">
 </a>
 </td>
 <td>
@@ -55,7 +55,7 @@
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
-<img alt="Mirai组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=release">
+<img alt="Mirai组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=releases">
 </a>
 </td>
 <td>
@@ -74,7 +74,7 @@
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kaiheila-core/">
-<img alt="开黑啦组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kaiheila-core?label=release">
+<img alt="开黑啦组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kaiheila-core?label=releases">
 </a>
 </td>
 <td>
