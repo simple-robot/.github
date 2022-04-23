@@ -8,15 +8,89 @@
 
 ## 组件引导
 
-| 组件 | 仓库 | 使用手册 | api文档 |
-|:----|:----|:--------|:--------|
-| 腾讯频道组件 | [simbot-component-tencent-guild](https://github.com/simple-robot/simbot-component-tencent-guild) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [API文档](https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc) |
-| mirai组件 | [simbot-component-mirai](https://github.com/simple-robot/simbot-component-mirai) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [API文档](https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc) |
-| 开黑啦组件 | [simbot-component-kaiheila](https://github.com/simple-robot/simbot-component-kaiheila) | [语雀文档](https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb) | [API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc) |
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">组件</th>
+    <th rowspan="2">仓库</th>
+    <th rowspan="2">使用手册</th>
+    <th rowspan="2">api文档</th>
+    <th colspan="2">
+版本信息 <small style="font-size: 10px"><i>仅供参考</i></small>
+
+</th>
+  </tr>
+  <tr>
+    <th>RELEASE</th>
+    <th>SNAPSHOT</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td>腾讯频道组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">simbot-component-tencent-guild</a></td>
+<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
+<td>
+<a href="https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-tencent-guild-core/">
+<img alt="Maven Central" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=release">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-tencent-guild-core/">
+<img alt="腾讯频道 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-tencent-guild-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>mirai组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">simbot-component-mirai</a></td>
+<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
+<td>
+<a href="https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
+<img alt="Maven Central" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=release">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-mirai-core/">
+<img alt="Mirai组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-mirai-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>开黑啦组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-kaiheila" target="_blank">simbot-component-kaiheila</a></td>
+<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
+<td>
+<a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kaiheila-core/">
+<img alt="开黑啦组件 Release" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kaiheila-core?label=release">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-kaiheila-core/">
+<img alt="开黑啦组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-kaiheila-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+
+</td>
+</tr>
+</tbody>
+
+</table>
 
 
 ## 图书馆
-如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [📚 图书馆](https://github.com/simple-robot-library) 看看~
 
+如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [📚 图书馆](https://github.com/simple-robot-library) 看看~
 
 
