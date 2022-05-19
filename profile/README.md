@@ -88,6 +88,18 @@
 
 </table>
 
+## ✨ 贡献星星！
+如果你喜欢 [Simple Robot](https://github.com/ForteScarlet/simpler-robot), 那么不妨去主仓库为它点个可爱的🌟；
+同样的，如果你喜欢这里的某个组件，也不要忘了给它一份你的支持～！
+
+你的支持就是最优质的更新动力，非常感谢❤️
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-tencent-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kaiheila&type=Date)](https://star-history.com/#simple-robot/simbot-component-tencent-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kaiheila&Date)
+
+> _powered by [Star History](https://star-history.com/)_
+
+
 
 ## [📚 图书馆](https://github.com/simple-robot-library)
 
