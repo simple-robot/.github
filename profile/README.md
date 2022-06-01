@@ -88,6 +88,12 @@
 
 </table>
 
+
+## [📚 图书馆](https://github.com/simple-robot-library)
+
+如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
+
+
 ## ✨ 贡献星星！
 如果你喜欢 [Simple Robot](https://github.com/ForteScarlet/simpler-robot), 那么不妨去主仓库为它点个可爱的🌟；
 同样的，如果你喜欢这里的某个组件，也不要忘了给它一份你的支持～！
@@ -99,10 +105,5 @@
 
 > _powered by [Star History](https://star-history.com/)_
 
-
-
-## [📚 图书馆](https://github.com/simple-robot-library)
-
-如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
 
 
