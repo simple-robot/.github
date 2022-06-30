@@ -66,20 +66,20 @@
 </tr>
 
 <tr>
-<td>开黑啦组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-kaiheila" target="_blank">👉 前往仓库</a></td>
+<td>Kook(开黑啦)组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉 前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kaiheila-core/">
-<img alt="开黑啦组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kaiheila-core?label=releases">
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kook-core/">
+<img alt="Kook(开黑啦)组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kook-core?label=releases">
 </a>
 </td>
 <td>
-<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-kaiheila-core/">
-<img alt="开黑啦组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-kaiheila-core%2Fmaven-metadata.xml&label=snapshot">
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-kook-core/">
+<img alt="Kook(开黑啦)组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-kook-core%2Fmaven-metadata.xml&label=snapshot">
 </a>
 
 </td>
@@ -101,7 +101,7 @@
 你的支持就是最优质的更新动力，非常感谢❤️
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-tencent-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kaiheila&type=Date)](https://star-history.com/#simple-robot/simbot-component-tencent-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kaiheila&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-tencent-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date)](https://star-history.com/#simple-robot/simbot-component-tencent-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date)
 
 > _powered by [Star History](https://star-history.com/)_
 
