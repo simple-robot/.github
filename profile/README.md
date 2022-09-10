@@ -1,13 +1,20 @@
 # 🧩 [Simple Robot][simbot-core-home] 附属
 
-欢迎光临！这里是 [**Simple Robot**][simbot-core-home] 框架的所有附属产物的集散地，请自由探索！
+欢迎光临！这里是 [**Simple Robot**][simbot-core-home] 框架的主要据点，请自由探索！
 
-[simbot-core-home]: https://github.com/ForteScarlet/simpler-robot
+
 
 <br />
 
-## 组件引导
+## 仓库引导
 
+## 核心库
+
+查看 👉[此处][simbot-core-home]
+
+## 组件库
+
+<hr />
 
 <table>
 <thead>
@@ -17,7 +24,7 @@
     <th rowspan="2">使用手册</th>
     <th rowspan="2">api文档</th>
     <th colspan="2">
-版本信息 <small><sub><i>仅供参考</i></sub></small>
+版本参考
 
 </th>
   </tr>
@@ -89,21 +96,21 @@
 </table>
 
 
-## [📚 图书馆](https://github.com/simple-robot-library)
+## 📚 图书馆
 
 如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
 
 
 ## ✨ 贡献星星！
-如果你喜欢 [Simple Robot](https://github.com/ForteScarlet/simpler-robot), 那么不妨去主仓库为它点个可爱的🌟；
-同样的，如果你喜欢这里的某个组件，也不要忘了给它一份你的支持～！
+如果你喜欢 Simple Robot, 那么不妨前往[核心库][simbot-core-home]以及你所青睐的组件为它点个可爱的🌟~
 
 你的支持就是最优质的更新动力，非常感谢❤️
 
+[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date)](https://star-history.com/#simple-robot/simpler-robot&Date)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-tencent-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date)](https://star-history.com/#simple-robot/simbot-component-tencent-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date)
 
 > _powered by [Star History](https://star-history.com/)_
 
-
+[simbot-core-home]: https://github.com/simple-robot/simpler-robot
 
