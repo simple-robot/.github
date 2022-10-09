@@ -1,4 +1,4 @@
-# 🧩 [Simple Robot][simbot-core-home] 附属
+# 🧩 欢迎！
 
 欢迎光临！这里是 [**Simple Robot**][simbot-core-home] 框架的主要据点，请自由探索！
 
@@ -36,7 +36,7 @@
 <tbody>
 <tr>
 <td>腾讯频道组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉 前往仓库</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc">API文档</a>
@@ -55,7 +55,7 @@
 
 <tr>
 <td>mirai组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉 前往仓库</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc">API文档</a>
@@ -74,7 +74,7 @@
 
 <tr>
 <td>Kook(开黑啦)组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉 前往仓库</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
@@ -98,7 +98,7 @@
 
 ## 📚 图书馆
 
-如果你想要找核心库或者各个组件的Api Doc，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
+如果你想要找核心库或者各个组件的**API Doc**，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
 
 
 ## ✨ 贡献星星！
