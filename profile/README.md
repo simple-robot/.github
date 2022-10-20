@@ -1,18 +1,94 @@
-# 🧩 欢迎！
+<!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
+    <a href="https://simbot.forte.love/"><img src="./logo.png" alt="logo" style="width:230px; height:230px; border-radius:50%; " /></a>
+    <h1>
+        - 🎉 欢迎！ -
+    </h1>
+    <small>
+        ~ simple robot framework ~      
+</small>
+<br>
+    <span>
+        <a href="https://github.com/simple-robot/simpler-robot" target="_blank">核心库</a>
+    </span> 
+    &nbsp; | &nbsp;
+    <span>
+        <a href="https://simbot.forte.love/" target="_blank">官网</a>
+    </span> <br />
+    <small> &gt; 感谢 <a href="https://github.com/ForteScarlet/CatCode" target="_blank">CatCode</a> 开发团队成员制作的simbot logo &lt; </small>
+    <br>
+    <small> &gt; 走过路过，不要忘记留下闪亮亮的⭐喔~ &lt; </small> 
+    <br>
+   <a href="https://github.com/ForteScarlet/simpler-robot/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/ForteScarlet/simpler-robot" /></a>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/simbot-api/" target="_blank">
+  <img alt="release" src="https://img.shields.io/maven-central/v/love.forte.simbot/simbot-api" /></a>
+<a href="https://www.yuque.com/simpler-robot/simpler-robot-doc" target="_blank">
+  <img alt="doc" src="https://img.shields.io/badge/doc-yuque-brightgreen" /></a>
+   <hr>
+   <img alt="stars" src="https://img.shields.io/github/stars/ForteScarlet/simpler-robot" />
+   <img alt="forks" src="https://img.shields.io/github/forks/ForteScarlet/simpler-robot" />
+   <img alt="watchers" src="https://img.shields.io/github/watchers/ForteScarlet/simpler-robot" />
+   <img alt="repo-size" src="https://img.shields.io/github/repo-size/ForteScarlet/simpler-robot" />
+   
+   <img alt="issues" src="https://img.shields.io/github/issues-closed/ForteScarlet/simpler-robot?color=green" />
+   <img alt="last-commit" src="https://img.shields.io/github/last-commit/ForteScarlet/simpler-robot" />
+   <img alt="search-hit" src="https://img.shields.io/github/search/simple-robot/simpler-robot/simbot" />
+   <img alt="top-language" src="https://img.shields.io/github/languages/top/ForteScarlet/simpler-robot" />
+<a href="./COPYING"><img alt="copying" src="https://img.shields.io/github/license/ForteScarlet/simpler-robot" /></a>
 
-欢迎光临！这里是 [**Simple Robot**][simbot-core-home] 框架的主要据点，请自由探索！
+<br>
 
+</div>
+
+<br />
+
+## 简介
+
+**`Simple Robot`** 是一个JVM平台（和多平台）的bot风格事件调度框架（下文简称simbot），提供统一的异步API和易用的风格设计，可以协助你更快速高效的编写bot风格的事件调度应用。目前主要应用于对接各种类型的bot应用平台/框架，并提供统一的API实现。
+
+**`simbot`** 通过 [Kotlin](https://kotlinlang.org/) 语言开发并兼容Java（jdk8+）等JVM平台语言，且提供Javaer最爱的Spring Boot Starter，协助你快速开发。
+
+## 走马观花
+
+```kotlin
+suspend fun main() {
+   createSimpleApplication {
+      listeners {
+          // 事件监听
+          FriendMessageEvent { event -> // this: EventProcessingContext
+             event.reply("Hello, Simbot")
+          }
+      }
+   }.join()
+}
+```
+
+**Java(Spring Boot Starter)**
+
+```java
+@SpringBootApplication
+@EnableSimbot // 启用
+public class MyApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(MyApplication.class, args);
+    }
+    
+    /** 事件监听 */
+    @Listener
+    public void onFriendMessage(FriendMessageEvent event) {
+        event.replyBlocking("Hello, ");
+        event.getFriend().sendAsync("Simbot");
+        // 阻塞或异步的不同风格的Java API
+    }
+}
+```
 
 
 <br />
 
-## 仓库引导
+## 组件引导
 
-## 核心库
-
-查看 👉[此处][simbot-core-home]
-
-## 组件库
+### 组件库
 
 <hr />
 
@@ -98,7 +174,7 @@
 
 ## 📚 图书馆
 
-如果你想要找核心库或者各个组件的**API Doc**，或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
+如果你想要找核心库或者各个组件的 **API Doc** 或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
 
 
 ## ✨ 贡献星星！
