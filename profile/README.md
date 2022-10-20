@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-    <a href="https://simbot.forte.love/"><img src="./logo.png" alt="logo" style="width:230px; height:230px; border-radius:50%; " /></a>
+    <a href="https://simbot.forte.love/"><img src="/logo.png" alt="logo" style="width:230px; height:230px; border-radius:50%; " /></a>
     <h1>
         - 🎉 欢迎！ -
     </h1>
