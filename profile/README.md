@@ -14,6 +14,10 @@
     &nbsp; | &nbsp;
     <span>
         <a href="https://simbot.forte.love/" target="_blank">官网</a>
+    </span>
+    &nbsp; | &nbsp;
+    <span>
+        <a href="https://github.com/orgs/simple-robot/discussions" target="_blank">社区</a>
     </span> <br />
     <small> &gt; 感谢 <a href="https://github.com/ForteScarlet/CatCode" target="_blank">CatCode</a> 开发团队成员制作的simbot logo &lt; </small>
     <br>
