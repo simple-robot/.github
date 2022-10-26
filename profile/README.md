@@ -9,7 +9,7 @@
 </small>
 <br>
     <span>
-        <a href="https://github.com/simple-robot/simpler-robot" target="_blank">核心库</a>
+        <a href="https://github.com/simple-robot/simpler-robot" target="_blank">核心仓库</a>
     </span> 
     &nbsp; | &nbsp;
     <span>
@@ -17,7 +17,7 @@
     </span>
     &nbsp; | &nbsp;
     <span>
-        <a href="https://github.com/orgs/simple-robot/discussions" target="_blank">社区</a>
+        <a href="https://github.com/orgs/simple-robot/discussions" target="_blank">🏠社区</a>
     </span> <br />
     <small> &gt; 感谢 <a href="https://github.com/ForteScarlet/CatCode" target="_blank">CatCode</a> 开发团队成员制作的simbot logo &lt; </small>
     <br>
@@ -186,7 +186,17 @@ public class MyApplication {
 
 如果想要讨论与simbot相关的内容，可以添加交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) ，但是要注意，群里不应该也不接受反馈问题，主要内容以互相交流为主。
 
+## 🤝 协助我们
+
+⭐为你青睐的仓库贡献一枚star或参与到[社区](https://github.com/orgs/simple-robot/discussions)的活跃建设中就是对我们最大的鼓励与帮助！
+
+⭐如果你希望参与项目的建设，欢迎通过PR对某一仓库进行贡献！
+
+⭐我们的开发团队生产力非常低，因为人手总是不足。如果你也想要参与到我们的团队中来，欢迎通过[邮箱](mailto:ForteScarlet@163.com)、[社区](https://github.com/orgs/simple-robot/discussions)、[群聊](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 联系我们~
+
+
 ## ✨ 贡献星星！
+
 如果你喜欢 Simple Robot, 那么不妨前往[核心库][simbot-core-home]以及你所青睐的组件为它点个可爱的🌟~
 
 你的支持就是最优质的更新动力，非常感谢❤️
