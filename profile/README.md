@@ -184,7 +184,7 @@ public class MyApplication {
 
 ✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
 
-✨如果想要讨论与simbot相关的内容，可以添加交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) ，但是要注意，群里不应该也不接受反馈问题，主要内容以互相交流为主。
+✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
 ✨体验如何？到 [👉这里](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
@@ -194,7 +194,7 @@ public class MyApplication {
 
 ⭐如果你希望参与项目的建设，欢迎通过PR对某一仓库进行贡献！
 
-⭐我们的开发团队生产力非常低，因为人手总是不足。如果你也想要参与到我们的团队中来，欢迎通过[邮箱](mailto:ForteScarlet@163.com)、[社区](https://github.com/orgs/simple-robot/discussions)、[群聊](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 联系我们~
+⭐我们的开发团队生产力非常低，因为人手总是不足。如果你也想要参与到我们的团队中来，欢迎通过[邮箱](mailto:ForteScarlet@163.com)、[社区](https://github.com/orgs/simple-robot/discussions)、[QQ频道](https://pd.qq.com/s/anzubgojn) 或 [QQ群聊](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 联系我们~
 
 
 ## ✨ 贡献星星！
