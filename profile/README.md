@@ -113,7 +113,7 @@ public class MyApplication {
 </thead>
 <tbody>
 <tr>
-<td>腾讯频道组件</td>
+<td>QQ频道组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉前往仓库</a></td>
 <td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
@@ -121,12 +121,12 @@ public class MyApplication {
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-tencent-guild-core/">
-<img alt="腾讯频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=releases">
+<img alt="QQ频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=releases">
 </a>
 </td>
 <td>
 <a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-tencent-guild-core/">
-<img alt="腾讯频道 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-tencent-guild-core%2Fmaven-metadata.xml&label=snapshot">
+<img alt="QQ频道 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-tencent-guild-core%2Fmaven-metadata.xml&label=snapshot">
 </a>
 </td>
 </tr>
@@ -182,7 +182,7 @@ public class MyApplication {
 
 ✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
 
-✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
+✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
 ✨体验如何？到 [👉这里](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
