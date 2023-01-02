@@ -99,8 +99,7 @@ public class MyApplication {
   <tr>
     <th rowspan="2">组件</th>
     <th rowspan="2">仓库</th>
-    <th rowspan="2">使用手册</th>
-    <th rowspan="2">api文档</th>
+    <th rowspan="2">API文档</th>
     <th colspan="2">
 版本参考
 
@@ -115,7 +114,6 @@ public class MyApplication {
 <tr>
 <td>QQ频道组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉前往仓库</a></td>
-<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc">API文档</a>
 </td>
@@ -134,7 +132,6 @@ public class MyApplication {
 <tr>
 <td>mirai组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
-<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc">API文档</a>
 </td>
@@ -153,7 +150,6 @@ public class MyApplication {
 <tr>
 <td>Kook(开黑啦)组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉前往仓库</a></td>
-<td><a href="https://www.yuque.com/simpler-robot/simpler-robot-doc/mudleb" target="_blank">语雀文档</a></td>
 <td>
 <a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
 </td>
@@ -182,9 +178,13 @@ public class MyApplication {
 
 ✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
 
-✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
+✨如果想要讨论与simbot相关的内容，可以添加~~QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV)~~ 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
-✨体验如何？到 [👉这里](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
+> 我们仍在考虑是否真的有必要提供交流群。
+
+## 🐾体验如何？
+
+体验如何？到 [👉这里](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
 ## 🤝 协助我们
 
