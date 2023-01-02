@@ -79,8 +79,8 @@ public class MyApplication {
     @Listener
     public void onFriendMessage(FriendMessageEvent event) {
         event.replyBlocking("Hello, ");
-        event.getFriend().sendAsync("Simbot");
-        // 阻塞或异步的不同风格的Java API
+        event.getFriendAsync().thenCompose(friend -> friend.sendAsync("Simbot"));
+        // 可以选择阻塞或异步的不同风格的Java API
     }
 }
 ```
