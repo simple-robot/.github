@@ -54,14 +54,18 @@
 
 ```kotlin
 suspend fun main() {
-   createSimpleApplication {
-      listeners {
+   val application = createSimpleApplication {
+      installAll() // try to install all components
+   }
+   
+   application.eventListenerManager.listeners {
           // 事件监听
           FriendMessageEvent { event -> // this: EventProcessingContext
              event.reply("Hello, Simbot")
           }
       }
-   }.join()
+   
+   application.join()
 }
 ```
 
@@ -69,7 +73,7 @@ suspend fun main() {
 
 ```java
 @SpringBootApplication
-@EnableSimbot // 启用
+@EnableSimbot // 启用simbot
 public class MyApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class, args);
