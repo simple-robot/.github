@@ -88,6 +88,20 @@ public class MyApplication {
 
 <br />
 
+## 🤔 猜你感兴趣
+
+### 示例项目/模板项目 
+
+如果你在寻找可以用作示例、或能稍微快速使用的模板项目，那么或许 [simbot-examples](https://github.com/simple-robot/simbot-examples) 和 [simbot-archetypes](https://github.com/simple-robot/simbot-archetypes) 可以帮到你。
+
+### 文档/API文档
+
+是一个不仔细看的坏孩子呢。文档的话，在最上面的 [**官网**](https://simbot.forte.love/) 就是喔。API文档（KDoc）也可以在那里面找到。
+
+### 教学视频
+
+你也许可以去 [这个B站合集视频](https://space.bilibili.com/2714954/channel/collectiondetail?sid=1025203) 看看。
+
 ## 组件引导
 
 ### 组件库
