@@ -104,7 +104,7 @@ public class MyApplication {
 
 ### 教学视频
 
-你也许可以去 [这个B站合集视频](https://space.bilibili.com/2714954/channel/collectiondetail?sid=1025203) 看看。
+你也许可以去 [这个B站视频](https://www.bilibili.com/video/BV1vA411o7A3/) 的所属合集中看看。
 
 ## 组件引导
 
@@ -198,7 +198,7 @@ public class MyApplication {
 
 ✨如果想要讨论与simbot相关的内容，可以添加~~QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV)~~ 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
-> 我们仍在考虑是否真的有必要提供交流群。
+> 我们仍在考虑是否真的**有必要**提供交流群。
 
 ## 🐾体验如何？
 
