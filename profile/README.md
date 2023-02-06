@@ -100,7 +100,9 @@ public class MyApplication {
 
 ### 文档/API文档
 
-是一个不仔细看的坏孩子呢。文档的话，在最上面的 [**官网**](https://simbot.forte.love/) 就是喔。API文档（KDoc）也可以在那里面找到。
+是一个不仔细看的坏孩子呢。文档的话，在最上面的 [**官网**](https://simbot.forte.love/) 就是喔。核心库的API文档（KDoc）也可以在那里面找到。
+
+当然，我们也提供了一个 [**文档引导站点**](https://docs.simbot.forte.love) 供你选择。
 
 ### 教学视频
 
