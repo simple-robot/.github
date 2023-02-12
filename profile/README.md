@@ -24,25 +24,13 @@
     <small> &gt; 走过路过，不要忘记留下闪亮亮的⭐喔~ &lt; </small> 
     <br>
    <a href="https://github.com/ForteScarlet/simpler-robot/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/ForteScarlet/simpler-robot" /></a>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/simbot-api/" target="_blank">
-  <img alt="release" src="https://img.shields.io/maven-central/v/love.forte.simbot/simbot-api" /></a>
-   <hr>
-   <img alt="stars" src="https://img.shields.io/github/stars/ForteScarlet/simpler-robot" />
-   <img alt="forks" src="https://img.shields.io/github/forks/ForteScarlet/simpler-robot" />
-   <img alt="watchers" src="https://img.shields.io/github/watchers/ForteScarlet/simpler-robot" />
-   <img alt="repo-size" src="https://img.shields.io/github/repo-size/ForteScarlet/simpler-robot" />
-   
-   <img alt="issues" src="https://img.shields.io/github/issues-closed/ForteScarlet/simpler-robot?color=green" />
-   <img alt="last-commit" src="https://img.shields.io/github/last-commit/ForteScarlet/simpler-robot" />
-   <img alt="search-hit" src="https://img.shields.io/github/search/simple-robot/simpler-robot/simbot" />
-   <img alt="top-language" src="https://img.shields.io/github/languages/top/ForteScarlet/simpler-robot" />
-<a href="./COPYING"><img alt="copying" src="https://img.shields.io/github/license/ForteScarlet/simpler-robot" /></a>
 
-<br>
+   <img alt="org-stars" src="https://img.shields.io/github/stars/simple-robot?label=org-stars" />
+   <img alt="org-discussions" src="https://img.shields.io/github/discussions/simple-robot/Discussions" />
+     
 
 </div>
 
-<br />
 
 ## 简介
 
