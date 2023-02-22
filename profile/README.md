@@ -96,6 +96,16 @@ public class MyApplication {
 
 你也许可以去 [这个B站视频](https://www.bilibili.com/video/BV1vA411o7A3/) 的所属合集中看看。
 
+
+## 🙋 你在吗？
+
+你有在使用simbot吗? 通过为你的仓库[添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)来告诉我们吧!
+
+## 🐾体验如何？
+
+体验如何？到 [👉这个**投票帖**](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
+
+
 ## 组件引导
 
 ### 组件库
@@ -189,10 +199,6 @@ public class MyApplication {
 ✨如果想要讨论与simbot相关的内容，可以添加~~QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV)~~ 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
 > 我们仍在考虑是否真的**有必要**提供交流群。
-
-## 🐾体验如何？
-
-体验如何？到 [👉这里](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
 ## 🤝 协助我们
 
