@@ -131,18 +131,18 @@ public class MyApplication {
 <tbody>
 <tr>
 <td>QQ频道组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-tencent-guild" target="_blank">👉前往仓库</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-qq-guild" target="_blank">👉前往仓库</a></td>
 <td>
-<a href="https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc">API文档</a>
+<a href="https://docs.simbot.forte.love/components/qq-guild">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-tencent-guild-core/">
-<img alt="QQ频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-tencent-guild-core?label=releases">
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-qq-guild-core/">
+<img alt="QQ频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-qq-guild-core?label=releases">
 </a>
 </td>
 <td>
-<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-tencent-guild-core/">
-<img alt="QQ频道 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-tencent-guild-core%2Fmaven-metadata.xml&label=snapshot">
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-qq-guild-core/">
+<img alt="QQ频道 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-qq-guild-core%2Fmaven-metadata.xml&label=snapshot">
 </a>
 </td>
 </tr>
@@ -151,7 +151,7 @@ public class MyApplication {
 <td>mirai组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
 <td>
-<a href="https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc">API文档</a>
+<a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
@@ -169,7 +169,7 @@ public class MyApplication {
 <td>Kook(开黑啦)组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉前往仓库</a></td>
 <td>
-<a href="https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc">API文档</a>
+<a href="https://docs.simbot.forte.love/components/kook">API文档</a>
 </td>
 <td>
 <a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kook-core/">
