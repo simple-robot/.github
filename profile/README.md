@@ -217,7 +217,7 @@ public class MyApplication {
 
 [![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date)](https://star-history.com/#simple-robot/simpler-robot&Date)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-tencent-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date)](https://star-history.com/#simple-robot/simbot-component-tencent-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-qq-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date)](https://star-history.com/#simple-robot/simbot-component-qq-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date)
 
 > _powered by [Star History](https://star-history.com/)_
 
