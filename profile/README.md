@@ -196,8 +196,10 @@ public class MyApplication {
 
 ✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
 
-✨如果想要讨论与simbot相关的内容，可以添加~~QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV)~~ 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
+✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
 
+> **Note**
+> 
 > 我们仍在考虑是否真的**有必要**提供交流群。
 
 ## 🤝 协助我们
