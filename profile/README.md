@@ -217,9 +217,32 @@ public class MyApplication {
 
 你的支持就是最优质的更新动力，非常感谢❤️
 
-[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date)](https://star-history.com/#simple-robot/simpler-robot&Date)
+<a href="https://star-history.com/#simple-robot/simpler-robot&Date"> 
+<picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date&theme=dark" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date" /> 
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date" /> 
+</picture> 
+</a>
 
+<!--
+[![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date)](https://star-history.com/#simple-robot/simpler-robot&Date)
+-->
+
+## Star History
+
+<a href="https://star-history.com/#simple-robot/simbot-component-qq-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simple-robot/simbot-component-qq-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simple-robot/simbot-component-qq-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=simple-robot/simbot-component-qq-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date" />
+  </picture>
+</a>
+
+
+<!--
 [![Star History Chart](https://api.star-history.com/svg?repos=simple-robot/simbot-component-qq-guild,simple-robot/simbot-component-mirai,simple-robot/simbot-component-kook&type=Date)](https://star-history.com/#simple-robot/simbot-component-qq-guild&simple-robot/simbot-component-mirai&simple-robot/simbot-component-kook&Date)
+-->
 
 > _powered by [Star History](https://star-history.com/)_
 
