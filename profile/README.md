@@ -40,6 +40,8 @@
 
 ## 走马观花
 
+**Kotlin core**
+
 ```kotlin
 suspend fun main() {
    val application = createSimpleApplication {
