@@ -119,6 +119,7 @@ public class MyApplication {
   <tr>
     <th rowspan="2">组件</th>
     <th rowspan="2">仓库</th>
+    <th rowspan="2">手册</th>
     <th rowspan="2">API文档</th>
     <th colspan="2">
 版本参考
@@ -133,7 +134,8 @@ public class MyApplication {
 <tbody>
 <tr>
 <td>QQ频道组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-qq-guild" target="_blank">👉前往仓库</a></td>
+<td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">👉前往仓库</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-qq-guild/" target="_blank">📕前往手册</a></td>
 <td>
 <a href="https://docs.simbot.forte.love/components/qq-guild">API文档</a>
 </td>
@@ -152,6 +154,7 @@ public class MyApplication {
 <tr>
 <td>mirai组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
+<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
 <td>
 <a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
 </td>
@@ -170,6 +173,7 @@ public class MyApplication {
 <tr>
 <td>KOOK(开黑啦)组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉前往仓库</a></td>
+<td><a href="https://component-kook.simbot.forte.love/" target="_blank">📕前往手册</a></td>
 <td>
 <a href="https://docs.simbot.forte.love/components/kook">API文档</a>
 </td>
@@ -188,6 +192,7 @@ public class MyApplication {
 <tr>
 <td>米游社组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-miyoushe" target="_blank">👉前往仓库</a></td>
+<td>📕前往手册(TODO)</td>
 <td>
 API文档(TODO)
 </td>
