@@ -38,6 +38,10 @@
 
 **`simbot`** 通过 [Kotlin](https://kotlinlang.org/) 语言开发并兼容Java（jdk8+）等JVM平台语言，且提供Javaer最爱的Spring Boot Starter，协助你快速开发。
 
+## 核心库
+
+核心库是所有组件的前置、标准API的制定者、也是绝大多数统一功能实现的地方。[**👉前往核心库**](https://github.com/simple-robot/simpler-robot)
+
 ## 走马观花
 
 **Kotlin core**
