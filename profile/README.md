@@ -9,7 +9,7 @@
 </small>
 <br>
     <span>
-        <a href="https://github.com/simple-robot/simpler-robot" target="_blank">核心仓库</a>
+        <a href="https://github.com/simple-robot/simpler-robot" target="_blank"><b>💡核心仓库</b></a>
     </span> 
     &nbsp; | &nbsp;
     <span>
