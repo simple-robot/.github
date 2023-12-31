@@ -195,25 +195,18 @@ public class MyApplication {
 
 <tr>
 <td>米游社组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-miyoushe" target="_blank">👉前往仓库</a></td>
-<td>📕前往手册(TODO)</td>
-<td>
-API文档(TODO)
+<td><a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank">👉前往仓库</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
+<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa">API文档</a>
 </td>
 <td>
-TODO
-<!--
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-miyoushe-core/">
-<img alt="米游社组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-miyoushe-core?label=releases">
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-miyoushe-villa-core/">
+<img alt="米游社组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-miyoushe-villa-core?label=releases">
 </a>
--->
 </td>
 <td>
-TODO
-<!--
-<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-kook-core/">
-<img alt="米游社组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-kook-core%2Fmaven-metadata.xml&label=snapshot">
--->
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-miyoushe-villa-core/">
+<img alt="米游社组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-miyoushe-villa-core%2Fmaven-metadata.xml&label=snapshot">
 </a>
 </td>
 </tr>
