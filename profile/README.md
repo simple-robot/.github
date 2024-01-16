@@ -34,7 +34,7 @@
 
 ## 简介
 
-**`Simple Robot`** 是一个JVM平台（和多平台）的bot风格事件调度框架（下文简称simbot），提供统一的异步API和易用的风格设计，可以协助你更快速高效的编写bot风格的事件调度应用。目前主要应用于对接各种类型的bot应用平台/框架，并提供统一的API实现。
+**`Simple Robot`** 是一个JVM平台（和多平台）的bot风格高性能事件调度框架（下文简称simbot），提供统一的API和易用的风格设计，可以协助你更快速高效的编写bot风格的事件调度应用。目前主要应用于对接各种类型的bot应用平台/框架，并提供统一的API实现。
 
 **`simbot`** 通过 [Kotlin](https://kotlinlang.org/) 语言开发并兼容Java（jdk8+）等JVM平台语言，且提供Javaer最爱的Spring Boot Starter，协助你快速开发。
 
@@ -86,11 +86,31 @@ public class MyApplication {
 
 <br />
 
+## 社群
+
+<details><summary>👉 展开查看<b> QQ群</b></summary>
+
+群号：[点击加入 185375305](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=qXs-qowPJFHVfTeAklMWrQXjmuIuCWRv&authKey=U0CnmHB5YTLkYNgkqEp22qYofX%2Fgo%2BzoYI5QM%2FlVdLWuJ5%2BU0ge0KviRdZ%2FQuwEz&noverify=0&group_code=185375305)
+
+![S9YOY3DF{5CGIZIKNVIM~70_tmb](https://github.com/simple-robot/.github/assets/40045247/8b463829-515b-4498-babc-ce226e2c567a)
+
+</details>
+
+<details><summary>👉 展开查看<b> QQ频道</b></summary>
+
+QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
+
+![DEK66C_%WLD__C0KJR180%4](https://github.com/simple-robot/.github/assets/40045247/c69eb850-c754-4a14-92bf-6de1fbee8a86)
+
+</details>
+
+
+✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
+与他人交流，并留下你的足迹吧！
+
+
+
 ## 🤔 猜你感兴趣
-
-### 示例项目/模板项目 
-
-如果你在寻找可以用作示例、或能稍微快速使用的模板项目，那么或许 [simbot-examples](https://github.com/simple-robot/simbot-examples) 和 [simbot-archetypes](https://github.com/simple-robot/simbot-archetypes) 可以帮到你。
 
 ### 文档/API文档
 
@@ -102,10 +122,9 @@ public class MyApplication {
 
 你也许可以去 [这个B站视频](https://www.bilibili.com/video/BV1vA411o7A3/) 的所属合集中看看。
 
-
 ## 🙋 你在吗？
 
-你有在使用simbot吗? 通过为你的仓库[添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)来告诉我们吧!
+你有在使用simbot吗? 通过为你的仓库 [添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) 来告诉我们吧!
 
 ## 🐾体验如何？
 
@@ -221,24 +240,13 @@ public class MyApplication {
 
 如果你想要找核心库或者各个组件的 **API Doc** 或者文档地址的话，也许你可以去 [**📚 图书馆**](https://github.com/simple-robot-library) 看看~
 
-## 🕶 交流与反馈
-
-✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
-
-✨如果想要讨论与simbot相关的内容，可以添加QQ交流群 [`185375305`](https://jq.qq.com/?_wv=1027&k=0HVo8aFV) 或者加入 [QQ频道](https://pd.qq.com/s/anzubgojn)。但是要注意，群里不应该也不接受反馈问题，主要以互相交流为主。
-
-> **Note**
-> 
-> 我们仍在考虑是否真的**有必要**提供交流群。
-
 ## 🤝 协助我们
 
-⭐为你青睐的仓库贡献一枚star或参与到[社区](https://github.com/orgs/simple-robot/discussions)的活跃建设中就是对我们最大的鼓励与帮助！
+⭐ 为你青睐的仓库贡献一枚star或参与到[社区](https://github.com/orgs/simple-robot/discussions)的活跃建设中就是对我们最大的鼓励与帮助！
 
-⭐如果你希望参与项目的建设，欢迎通过PR对某一仓库进行贡献！
+⭐ 如果你希望参与项目的建设，欢迎通过PR对某一仓库进行贡献！
 
-⭐我们的开发团队生产力非常低，因为人手总是不足。如果你也想要参与到我们的团队中来，欢迎通过[邮箱](mailto:ForteScarlet@163.com)、[社区](https://github.com/orgs/simple-robot/discussions)、[QQ频道](https://pd.qq.com/s/anzubgojn) 或 [QQ群聊](https://jq.qq.com/?_wv=1027&k=NqEoJTK2) 联系我们~
-
+⭐ 我们的开发团队生产力非常低，因为人手总是不足。如果你也想要参与到我们的团队中来，欢迎通过[**邮箱**](mailto:ForteScarlet@163.com)、[**社区**](https://github.com/orgs/simple-robot/discussions)、**QQ频道** 或 **QQ群** 联系我们~
 
 ## ✨ 贡献星星！
 
