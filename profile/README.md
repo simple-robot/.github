@@ -56,7 +56,8 @@
 ```kotlin
 suspend fun main() {
    val application = launchSimpleApplication {
-      installAll() // try to install all components
+        findAndInstallAllPlugins(true)
+        findAndInstallAllComponents(true)
    }
    
    application.listeners {
