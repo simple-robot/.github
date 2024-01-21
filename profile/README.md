@@ -5,7 +5,7 @@
         - 🎉 欢迎！ -
     </h1>
     <small>
-        ~ simple robot framework ~      
+        ~ Simple Robot Framework ~      
 </small>
 <br>
     <span>
@@ -34,9 +34,16 @@
 
 ## 简介
 
-**`Simple Robot`** 是一个JVM平台（和多平台）的bot风格高性能事件调度框架（下文简称simbot），提供统一的API和易用的风格设计，可以协助你更快速高效的编写bot风格的事件调度应用。目前主要应用于对接各种类型的bot应用平台/框架，并提供统一的API实现。
+**`Simple Robot`** v4 是一个基于 **KMP** 的多平台 Bot 风格高性能异步事件调度框架（下文简称simbot），
+提供统一的异步API和易用的风格设计，可以协助你更快速高效的编写 Bot 风格的事件调度应用。
+目前主要应用于对接各种类型的 Bot 应用平台/框架，并提供部分组件库实现。
 
-**`simbot`** 通过 [Kotlin](https://kotlinlang.org/) 语言开发并兼容Java（jdk8+）等JVM平台语言，且提供Javaer最爱的Spring Boot Starter，协助你快速开发。
+
+**`simbot`** 通过 [Kotlin](https://kotlinlang.org/) 语言开发、
+基于 [KMP](https://kotlinlang.org/docs/multiplatform.html) 支持多平台，
+并兼容Java（**jdk11+**）等JVM平台语言，
+且提供大量 Java 友好 API 和 Spring Boot starter，协助你快速开发。
+
 
 ## 核心库
 
