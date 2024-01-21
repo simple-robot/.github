@@ -55,13 +55,13 @@
 
 ```kotlin
 suspend fun main() {
-   val application = createSimpleApplication {
+   val application = launchSimpleApplication {
       installAll() // try to install all components
    }
    
-   application.eventListenerManager.listeners {
+   application.listeners {
           // 事件监听
-          FriendMessageEvent { event -> // this: EventProcessingContext
+          process<FriendMessageEvent> { event -> // this: EventProcessingContext
              event.reply("Hello, Simbot")
           }
       }
@@ -82,10 +82,12 @@ public class MyApplication {
     
     /** 事件监听 */
     @Listener
-    public void onFriendMessage(FriendMessageEvent event) {
+    public Mono<?> onFriendMessage(ChatChannelMessageEvent event) {
         event.replyBlocking("Hello, ");
-        event.getFriendAsync().thenCompose(friend -> friend.sendAsync("Simbot"));
-        // 可以选择阻塞或异步的不同风格的Java API
+        event.getContentAsync().thenCompose(chatChannel -> chatChannel.sendAsync("Simbot"));
+        return event.replyReserve("爱你").transform(SuspendReserve.mono());
+        // 可以选择阻塞、异步或响应式等多种不同风格的 Java API
+        // 前排提醒：这里仅供示例，不建议混用多种风格，尤其是阻塞和异步混用。
     }
 }
 ```
