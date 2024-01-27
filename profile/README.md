@@ -245,6 +245,17 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 
 </table>
 
+## 组件库开发模板
+
+> [!note]
+> 首先前排提示一下，这是指的**组件开发**，并非普通应用开发。
+
+我们从 simbot4 开始会持续提供一些用于开发**组件库/插件库**的模板项目，如果你感兴趣，
+在阅读**组件开发**相关文档之余也可以试试它们喔
+
+- [simbot4-multiplatform-component-template](https://github.com/simple-robot/simbot4-multiplatform-component-template)
+
+> 模板项目不一定会更新的很及时，如果你有发现任何描述错误、落后的版本、错误的逻辑，也都欢迎为其提交 issue 或 pr，感谢您的协助！
 
 ## 📚 图书馆
 
