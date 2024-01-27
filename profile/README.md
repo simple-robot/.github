@@ -255,6 +255,7 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 
 - [simbot4-multiplatform-component-template](https://github.com/simple-robot/simbot4-multiplatform-component-template)
 
+> [!warning]
 > 模板项目不一定会更新的很及时，如果你有发现任何描述错误、落后的版本、错误的逻辑，也都欢迎为其提交 issue 或 pr，感谢您的协助！
 
 ## 📚 图书馆
