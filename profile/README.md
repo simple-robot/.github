@@ -185,25 +185,6 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 </tr>
 
 <tr>
-<td>mirai组件</td>
-<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
-<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
-<td>
-<a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
-</td>
-<td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
-<img alt="Mirai组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=releases">
-</a>
-</td>
-<td>
-<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-mirai-core/">
-<img alt="Mirai组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-mirai-core%2Fmaven-metadata.xml&label=snapshot">
-</a>
-</td>
-</tr>
-
-<tr>
 <td>KOOK(开黑啦)组件</td>
 <td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">👉前往仓库</a></td>
 <td><a href="https://component-kook.simbot.forte.love/" target="_blank">📕前往手册</a></td>
@@ -223,7 +204,64 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 </tr>
 
 <tr>
-<td>米游社组件</td>
+<td>🚧 Discord组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">👉前往仓库</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-discord">📕前往手册</a></td>
+<td><a href="https://docs.simbot.forte.love/components/discord">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-discord-core/">
+<img alt="Discord组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-discord-core?label=releases">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-discord-core/">
+<img alt="Discord组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-discord-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>🚧 Telegram组件</td>
+<td><a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">👉前往仓库</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-telegram">📕前往手册</a></td>
+<td><a href="https://docs.simbot.forte.love/components/telegram">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-telegram-core/">
+<img alt="Telegram组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-telegram-core?label=releases">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-telegram-core/">
+<img alt="Telegram组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-telegram-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+</td>
+</tr>
+
+<!-- 濒危 -->
+<tr>
+<td>⚠ mirai组件 <i>濒危</i></td>
+<td><a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">👉前往仓库</a></td>
+<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
+<td>
+<a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
+</td>
+<td>
+<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
+<img alt="Mirai组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=releases">
+</a>
+</td>
+<td>
+<a href="https://oss.sonatype.org/content/repositories/snapshots/love/forte/simbot/component/simbot-component-mirai-core/">
+<img alt="Mirai组件 Snapshot" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Foss.sonatype.org%2Fcontent%2Frepositories%2Fsnapshots%2Flove%2Fforte%2Fsimbot%2Fcomponent%2Fsimbot-component-mirai-core%2Fmaven-metadata.xml&label=snapshot">
+</a>
+</td>
+</tr>
+
+<!-- 已逝 -->
+<tr>
+<td>💀 <del>米游社组件</del> <b>已逝</b></td>
 <td><a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank">👉前往仓库</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
 <td><a href="https://docs.simbot.forte.love/components/miyoushe-villa">API文档</a>
