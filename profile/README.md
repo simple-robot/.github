@@ -27,7 +27,9 @@
 
    <img alt="org-stars" src="https://img.shields.io/github/stars/simple-robot?label=org-stars" />
    <img alt="org-discussions" src="https://img.shields.io/github/discussions/simple-robot/Discussions" />
-     
+   
+   <h1></h1><!-- 更细的 'hr' -->
+   <p><i><small>一个bot风格的高效异步事件调度框架 / A Bot-style event scheduling framework, asynchronous and high-performance</small></i></p>
 
 </div>
 
