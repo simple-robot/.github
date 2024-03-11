@@ -2,9 +2,9 @@
 <div align="center">
     <a href="https://simbot.forte.love/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../logo-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../logo.svg" />
-  <img alt="simbot logo" src="../logo.svg" width="260" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-robot/.github/main/logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-robot/.github/main/logo.svg" />
+  <img alt="simbot logo" src="https://raw.githubusercontent.com/simple-robot/.github/main/logo.svg" width="260" />
 </picture>
     </a>
     <h1>
