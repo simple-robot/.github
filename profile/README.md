@@ -124,7 +124,7 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 
 <details><summary>👉 展开查看<b> Discord</b></summary>
 
-Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
+Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 
 </details>
@@ -188,8 +188,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <a href="https://docs.simbot.forte.love/components/qq-guild">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-qq-guild-core/">
-<img alt="QQ频道 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-qq-guild-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-kook/releases">
+<img alt="QQ频道 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-qq-guild">
 </a>
 </td>
 <td>
@@ -207,8 +207,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <a href="https://docs.simbot.forte.love/components/kook">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-kook-core/">
-<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-kook-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-kook/releases">
+<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kook">
 </a>
 </td>
 <td>
@@ -225,8 +225,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <td><a href="https://docs.simbot.forte.love/components/discord">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-discord-core/">
-<img alt="Discord组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-discord-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-discord/releases">
+<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
 </a>
 </td>
 <td>
@@ -243,8 +243,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <td><a href="https://docs.simbot.forte.love/components/telegram">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-telegram-core/">
-<img alt="Telegram组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-telegram-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-telegram/releases">
+<img alt="Telegram组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-telegram">
 </a>
 </td>
 <td>
@@ -263,8 +263,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-mirai-core/">
-<img alt="Mirai组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-mirai-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-mirai/releases">
+<img alt="Mirai组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-mirai">
 </a>
 </td>
 <td>
@@ -282,8 +282,8 @@ Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
 <td><a href="https://docs.simbot.forte.love/components/miyoushe-villa">API文档</a>
 </td>
 <td>
-<a href="https://repo1.maven.org/maven2/love/forte/simbot/component/simbot-component-miyoushe-villa-core/">
-<img alt="米游社组件 Releases" src="https://img.shields.io/maven-central/v/love.forte.simbot.component/simbot-component-miyoushe-villa-core?label=releases">
+<a href="https://github.com/simple-robot/simbot-component-miyoushe-villa/releases">
+<img alt="米游社组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-miyoushe-villa">
 </a>
 </td>
 <td>
