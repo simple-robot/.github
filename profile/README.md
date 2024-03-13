@@ -104,7 +104,7 @@ public class MyApplication {
 
 <br />
 
-## 社群
+## 社群 / Communities
 
 <details><summary>👉 展开查看<b> QQ群</b></summary>
 
@@ -119,6 +119,13 @@ public class MyApplication {
 QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 
 ![DEK66C_%WLD__C0KJR180%4](https://github.com/simple-robot/.github/assets/40045247/c69eb850-c754-4a14-92bf-6de1fbee8a86)
+
+</details>
+
+<details><summary>👉 展开查看<b> Discord</b></summary>
+
+Discord: [点击加入](https://discord.gg/eFB3HeBp9B).
+
 
 </details>
 
