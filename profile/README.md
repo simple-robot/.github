@@ -79,7 +79,7 @@ suspend fun main() {
 }
 ```
 
-**Java(Spring Boot Starter)**
+**Java(以 Spring Boot 为例)**
 
 ```java
 @SpringBootApplication
@@ -88,15 +88,32 @@ public class MyApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class, args);
     }
-    
-    /** 事件监听 */
+
+    // 可以选择阻塞、异步或响应式等多种不同风格的 Java API
+    // 前排提醒：这里仅供示例，不建议混用多种风格，尤其是阻塞和异步混用。
+
+    /** 事件监听，监听一个通用的标准事件类型 */
     @Listener
-    public Mono<?> onFriendMessage(ChatChannelMessageEvent event) {
-        event.replyBlocking("Hello, ");
-        event.getContentAsync().thenCompose(chatChannel -> chatChannel.sendAsync("Simbot"));
-        return event.replyReserve("爱你").transform(SuspendReserve.mono());
-        // 可以选择阻塞、异步或响应式等多种不同风格的 Java API
-        // 前排提醒：这里仅供示例，不建议混用多种风格，尤其是阻塞和异步混用。
+    public void onFriendMessage(ChatChannelMessageEvent event) {
+        event.replyBlocking("Hello, Simbot!");
+    }
+
+    /**
+     * 假设：你在使用Telegram组件，那么此处为监听 Telegram 的普通群消息事件
+     * 并且这里以 reactor API 为例
+     */
+    @Listener
+    public Mono<?> onTelegramChatGroupMessage(TelegramChatGroupMessageEvent event) {
+        return event.replyReserve("Hello, Simbot!").transform(SuspendReserve.mono());
+    }
+
+     /**
+     * 假设：你在使用KOOK组件，那么此处为监听KOOK的聊天子频道消息事件
+     * 并且这里以 Java async API 为例
+     */
+    @Listener
+    public CompletableFuture<?> onKookChannelMessage(KookChannelMessageEvent event) {
+        return event.replyAsync("Hello, Simbot!");
     }
 }
 ```
