@@ -336,16 +336,6 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 <br />
 
-<a href="https://star-history.com/#simple-robot/simbot-component-kook&simple-robot/simbot-component-qq-guild&simple-robot/simbot-component-mirai&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simple-robot/simbot-component-kook%2Csimple-robot/simbot-component-qq-guild%2Csimple-robot/simbot-component-mirai&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simple-robot/simbot-component-kook%2Csimple-robot/simbot-component-qq-guild%2Csimple-robot/simbot-component-mirai&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=simple-robot/simbot-component-kook%2Csimple-robot/simbot-component-qq-guild%2Csimple-robot/simbot-component-mirai&type=Date" />
-  </picture>
-</a>
-
-
-
 > _powered by [Star History](https://star-history.com/)_
 
 [simbot-core-home]: https://github.com/simple-robot/simpler-robot
