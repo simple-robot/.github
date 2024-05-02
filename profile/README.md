@@ -143,13 +143,11 @@ QQ频道：[点击加入QQ频道](https://pd.qq.com/s/ge096m1xq)
 
 Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
-
 </details>
 
 
-✨一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
+✨除了前往社群，一同建设 [**社区**](https://github.com/orgs/simple-robot/discussions) 是我们最推荐的相互交流的方式。如果你发现了一些问题，也可以通过 [**Issues**](https://github.com/simple-robot/simpler-robot/issues) 进行反馈。
 与他人交流，并留下你的足迹吧！
-
 
 
 ## 🤔 猜你感兴趣
@@ -172,10 +170,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 体验如何？到 [👉这个**投票帖**](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
-
-## 组件引导
-
-### 组件库
+## 组件库
 
 <hr />
 
@@ -279,7 +274,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 <!-- 已逝 -->
 <tr>
-<td>💀<a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
+<td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
 <td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
 <td><a href="https://docs.simbot.forte.love/components/miyoushe-villa">API文档</a>
 </td>
@@ -295,18 +290,21 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 </table>
 
-## 组件库开发模板
+### 组件库开发
 
-> [!note]
-> 首先前排提示一下，这是指的**组件开发**，并非普通应用开发。
+除了直接使用组件开发应用，simbot也支持使用 Kotlin 开发任意的自定义组件。
 
 我们从 simbot4 开始会持续提供一些用于开发**组件库/插件库**的模板项目，如果你感兴趣，
-在阅读**组件开发**相关文档之余也可以试试它们喔
+在阅读**组件开发**相关文档之余也可以试试它们喔！
+
+**开发模板**
 
 > [!warning]
+> **组件开发**与应用开发不同，不要搞混喔。
+> 
 > 模板项目不一定会更新的很及时，如果你有发现任何描述错误、落后的版本、错误的逻辑，也都欢迎为其提交 issue 或 pr，感谢您的协助！
 
-- [基于KMP的组件库模板](https://github.com/simple-robot/simbot4-multiplatform-component-template)
+- 🍓 [**基于KMP的组件库模板**](https://github.com/simple-robot/simbot4-multiplatform-component-template)
 
 ## 📚 图书馆
 
