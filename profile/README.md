@@ -326,7 +326,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 <!-- Star History -->
 
-<a href="https://star-history.com/#simple-robot/simpler-robot&Date">
+<a href="https://github.com/simple-robot/simpler-robot">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=simple-robot/simpler-robot&type=Date" />
