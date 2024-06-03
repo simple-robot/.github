@@ -210,30 +210,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 </td>
 </tr>
 
-<tr>
-<td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-telegram">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/telegram">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-telegram/releases">
-<img alt="Telegram组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-telegram">
-</a>
-</td>
-</tr>
-
-<tr>
-<td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-discord">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/discord">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-discord/releases">
-<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
-</a>
-</td>
-</tr>
-
+<!-- OB -->
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-onebot">📕前往手册</a> (暂无，待建设)</td>
@@ -246,6 +223,33 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 </td>
 </tr>
 
+<!-- Telegram -->
+<tr>
+<td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-telegram">📕前往手册</a> (暂无，待建设)</td>
+<td><a href="https://docs.simbot.forte.love/components/telegram">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-telegram/releases">
+<img alt="Telegram组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-telegram">
+</a>
+</td>
+</tr>
+
+<!-- Discord -->
+<tr>
+<td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
+<td><a href="https://simple-robot.github.io/simbot-component-discord">📕前往手册</a> (暂无，待建设)</td>
+<td><a href="https://docs.simbot.forte.love/components/discord">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-discord/releases">
+<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
+</a>
+</td>
+</tr>
+
+<!-- kritor -->
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-kritor" target="_blank">Kritor组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-kritor">📕前往手册</a> (暂无，待建设)</td>
