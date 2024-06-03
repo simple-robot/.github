@@ -59,7 +59,7 @@
 
 ## 走马观花
 
-**Kotlin core**
+**Kotlin & simbot-core**
 
 ```kotlin
 suspend fun main() {
@@ -79,7 +79,7 @@ suspend fun main() {
 }
 ```
 
-**Java(以 Spring Boot 为例)**
+**Java & Spring Boot**
 
 ```java
 @SpringBootApplication
