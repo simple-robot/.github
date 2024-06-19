@@ -213,7 +213,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <!-- OB -->
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-onebot">📕前往手册</a> (暂无，待建设)</td>
+<td><a href="https://simple-robot.github.io/simbot-component-onebot">📕前往手册</a></td>
 <td><a href="https://docs.simbot.forte.love/components/onebot">API文档</a>
 </td>
 <td>
