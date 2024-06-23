@@ -296,7 +296,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 </table>
 
-### 组件库开发
+## 组件库开发
 
 除了直接使用组件开发应用，simbot也支持使用 Kotlin 开发任意的自定义组件。
 
