@@ -8,34 +8,32 @@
 </picture>
     </a>
     <h1>
-        - 🎉 欢迎！ -
+        ~ Simple Robot Framework ~
     </h1>
     <small>
-        ~ Simple Robot Framework ~      
+        一个bot风格的高效异步事件调度框架
+            <br/> 
+        A Bot-style event scheduling framework, asynchronous and high-performance
 </small>
-<br>
+<br />
     <span>
-        <a href="https://github.com/simple-robot/simpler-robot" target="_blank"><b>💡核心仓库</b></a>
+        <a href="https://github.com/simple-robot/simpler-robot" target="_blank"><b>💡核心库</b></a>
     </span> 
     &nbsp; | &nbsp;
     <span>
-        <a href="https://simbot.forte.love/" target="_blank">官网</a>
+        <a href="https://simbot.forte.love/" target="_blank">应用手册</a>
     </span>
     &nbsp; | &nbsp;
     <span>
         <a href="https://github.com/orgs/simple-robot/discussions" target="_blank">🏠社区</a>
-    </span> <br />
-    <small> &gt; 感谢 <a href="https://github.com/ForteScarlet/CatCode" target="_blank">CatCode</a> 开发团队成员制作的simbot logo &lt; </small>
+    </span>
     <br>
-    <small> &gt; 走过路过，不要忘记留下闪亮亮的⭐喔~ &lt; </small> 
-    <br>
+    <small> &gt; 走过路过，不要忘记留下闪亮亮的 <b>⭐</b> 喔~ &lt; </small> 
+    <br />
    <a href="https://github.com/ForteScarlet/simpler-robot/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/ForteScarlet/simpler-robot" /></a>
 
    <img alt="org-stars" src="https://img.shields.io/github/stars/simple-robot?label=org-stars" />
    <img alt="org-discussions" src="https://img.shields.io/github/discussions/simple-robot/Discussions" />
-   
-   <h1></h1><!-- 更细的 'hr' -->
-   <p><i><small>一个bot风格的高效异步事件调度框架 / A Bot-style event scheduling framework, asynchronous and high-performance</small></i></p>
 
 </div>
 
@@ -52,6 +50,14 @@
 并兼容Java（**jdk11+**）等JVM平台语言，
 且提供大量 Java 友好 API 和 Spring Boot starter，协助你快速开发！
 
+## Why simbot?
+
+- 基于 Kotlin Multiplatform，支持多平台开发。<i><small>多一份选择，多一份安心</small></i>
+- 得益于Kotlin的挂起特性与协程库，使用更简洁、更简单的代码编写 **更加高效** 的逻辑！
+- **Java友好！** 不会Kotlin？没关系，借助编译器插件，我们为Java开发者提供了阻塞、异步、响应式等多种风格的API！<i><small>不怕你不会，就怕你会挑花眼</small></i>
+- 平台功能**组件化**，不仅易于支持组件间的协同与应用，也使得任意组件库的开发成为可能！
+- 不仅仅是API调库侠！simbot提供**更完备的实现与更多高级功能**，不同的平台不同的组件拥有风格更加统一的简洁API，屏蔽掉你不想知道的细节，让你更加专注于你的逻辑本身。
+  <i><small>发送消息？`send` 就完事儿了！</small></i>
 
 ## 核心库
 
@@ -70,7 +76,7 @@ suspend fun main() {
    
    application.listeners {
           // 事件监听
-          process<FriendMessageEvent> { event -> // this: EventProcessingContext
+          process<ContactMessageEvent> { event -> // this: EventProcessingContext
              event.reply("Hello, Simbot")
           }
       }
@@ -103,8 +109,8 @@ public class MyApplication {
      * 并且这里以 reactor API 为例
      */
     @Listener
-    public Mono<?> onTelegramChatGroupMessage(TelegramChatGroupMessageEvent event) {
-        return event.replyReserve("Hello, Simbot!").transform(SuspendReserve.mono());
+    public Mono<Void> onTelegramChatGroupMessage(TelegramChatGroupMessageEvent event) {
+        return event.replyReserve("Hello, Simbot!").transform(SuspendReserve.mono()).then();
     }
 
      /**
@@ -165,10 +171,6 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 ## 🙋 你在吗？
 
 你有在使用simbot吗? 通过为你的仓库 [添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) 来告诉我们吧!
-
-## 🐾体验如何？
-
-体验如何？到 [👉这个**投票帖**](https://github.com/orgs/simple-robot/discussions/2) 来分享一下你的使用体验吧 ( •̀ ω •́ )✧
 
 ## 组件库
 
