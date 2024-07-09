@@ -124,6 +124,40 @@ public class MyApplication {
 }
 ```
 
+**Kotlin 构建消息**
+
+```Kotlin
+// 单个消息元素
+val text = "你好".toText()
+val at = At(123456.ID)
+// 组装消息链
+val messages = text + at
+// 构建消息链
+val built = buildMessages {
+    +"你好"
+    +at
+    +Face(666.ID)
+}
+```
+
+**Java 构建消息**
+
+```Java
+// 单个消息元素
+var text = Text.of("你好");
+var at = new At(Identifies.of(123456));
+// 组装消息链
+var messages = Messages.of(text, at);
+// 构建消息链
+var built = MessagesBuilder.create()
+    .add("你好")
+    .add(at)
+    .add(new Face(Identifies.of(666)))
+    .build();
+```
+
+> [!note]
+> 针对不同的平台，各组件还可能会提供更多组件专属的消息元素类型，比如QQ频道中的 Ark 或 markdown 等。
 
 <br />
 
