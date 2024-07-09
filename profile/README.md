@@ -224,7 +224,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ频道组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-qq-guild/" target="_blank">📕前往手册</a></td>
 <td>
-<a href="https://docs.simbot.forte.love/components/qq-guild">API文档</a>
+<a href="https://docs.simbot.forte.love/components/qq-guild/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-kook/releases">
@@ -237,7 +237,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">KOOK(开黑啦)组件</a></td>
 <td><a href="https://component-kook.simbot.forte.love/" target="_blank">📕前往手册</a></td>
 <td>
-<a href="https://docs.simbot.forte.love/components/kook">API文档</a>
+<a href="https://docs.simbot.forte.love/components/kook/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-kook/releases">
@@ -250,7 +250,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <tr>
 <td><a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-onebot">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/onebot">API文档</a>
+<td><a href="https://docs.simbot.forte.love/components/onebot/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-onebot/releases">
@@ -263,7 +263,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-telegram">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/telegram">API文档</a>
+<td><a href="https://docs.simbot.forte.love/components/telegram/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-telegram/releases">
@@ -276,7 +276,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-discord">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/discord">API文档</a>
+<td><a href="https://docs.simbot.forte.love/components/discord/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-discord/releases">
@@ -289,7 +289,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-kritor" target="_blank">Kritor组件</a></td>
 <td><a href="https://simple-robot.github.io/simbot-component-kritor">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/kritor">API文档</a>
+<td><a href="https://docs.simbot.forte.love/components/kritor/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-kritor/releases">
@@ -303,7 +303,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <td>⚠ <a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">mirai组件</a> <i>濒危</i></td>
 <td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
 <td>
-<a href=https://docs.simbot.forte.love/components/mirai">API文档</a>
+<a href="https://docs.simbot.forte.love/components/mirai/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-mirai/releases">
@@ -316,7 +316,7 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 <tr>
 <td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
 <td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa">API文档</a>
+<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa/releases">
