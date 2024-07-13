@@ -61,7 +61,143 @@
 
 ## 核心库
 
-核心库是所有组件的前置、标准API的制定者、也是绝大多数统一功能实现的地方。[**👉前往核心库**](https://github.com/simple-robot/simpler-robot)
+核心库是所有组件的前置、标准API的制定者、也是绝大多数统一功能实现的地方。
+
+[**👉前往核心库**](https://github.com/simple-robot/simpler-robot)
+
+## 组件库
+
+<hr />
+
+<table>
+<thead>
+  <tr>
+    <th>组件</th>
+    <th>描述</th>
+    <th>手册</th>
+    <th>API文档</th>
+    <th>版本参考</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ与QQ频道组件</a></td>
+<td>对接QQ官方API的多平台组件库，支持QQ群聊、单聊与QQ频道</td>
+<td><a href="https://simbot.forte.love/component-qq-guild.html" target="_blank">📕前往手册</a></td>
+<td>
+<a href="https://docs.simbot.forte.love/components/qq-guild/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-kook/releases">
+<img alt="QQ频道 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-qq-guild">
+</a>
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">KOOK(开黑啦)组件</a></td>
+<td>对接KOOK官方API的多平台组件库</td>
+<td><a href="https://simbot.forte.love/component-kook.html" target="_blank">📕前往手册</a></td>
+<td>
+<a href="https://docs.simbot.forte.love/components/kook/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-kook/releases">
+<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kook">
+</a>
+</td>
+</tr>
+
+<!-- OB -->
+<tr>
+<td><a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
+<td>对接OneBot客户端协议的多平台组件库</td>
+<td><a href="https://simbot.forte.love/component-onebot.html">📕前往手册</a></td>
+<td><a href="https://docs.simbot.forte.love/components/onebot/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-onebot/releases">
+<img alt="OneBot组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-onebot">
+</a>
+</td>
+</tr>
+
+<!-- Telegram -->
+<tr>
+<td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
+<td>对接Telegram官方API的多平台组件库</td>
+<td><a href="https://simbot.forte.love/component-telegram.html">📕前往手册</a> (待建设)</td>
+<td><a href="https://docs.simbot.forte.love/components/telegram/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-telegram/releases">
+<img alt="Telegram组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-telegram">
+</a>
+</td>
+</tr>
+
+<!-- Discord -->
+<tr>
+<td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
+<td>对接Discord官方API的多平台组件库</td>
+<td><a href="https://simbot.forte.love/component-discord.html">📕前往手册</a> (待建设)</td>
+<td><a href="https://docs.simbot.forte.love/components/discord/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-discord/releases">
+<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
+</a>
+</td>
+</tr>
+
+<!-- kritor -->
+<!--
+<tr>
+<td>🚧 <a href="https://github.com/simple-robot/simbot-component-kritor" target="_blank">Kritor组件</a></td>
+<td>-</td>
+<td><a href="https://simple-robot.github.io/simbot-component-kritor">📕前往手册</a> (暂无，待建设)</td>
+<td><a href="https://docs.simbot.forte.love/components/kritor/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-kritor/releases">
+<img alt="Kritor组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kritor">
+</a>
+</td>
+</tr>
+-->
+
+<!-- 濒危 -->
+<tr>
+<td>⚠ <a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">mirai组件</a> <i>濒危</i></td>
+<td>对接第三方开源框架Mirai的JVM平台组件库 <br /><i>（组件仅支持simbot3, 且此框架已经不再活跃甚至不再维护，因此组件库不再做跟进更新）</i></td>
+<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
+<td>
+<a href="https://docs.simbot.forte.love/components/mirai/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-mirai/releases">
+<img alt="Mirai组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-mirai">
+</a>
+</td>
+</tr>
+
+<!-- 已逝 -->
+<tr>
+<td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
+<td>对接米游社大别野官方API的多平台组件库 <br /><i>米游社大别野已成为历史</i></td>
+<td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
+<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-miyoushe-villa/releases">
+<img alt="米游社组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-miyoushe-villa">
+</a>
+</td>
+</tr>
+
+</tbody>
+
+</table>
 
 ## 走马观花
 
@@ -205,130 +341,6 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 ## 🙋 你在吗？
 
 你有在使用simbot吗? 通过为你的仓库 [添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) 来告诉我们吧!
-
-## 组件库
-
-<hr />
-
-<table>
-<thead>
-  <tr>
-    <th>组件</th>
-    <th>手册</th>
-    <th>API文档</th>
-    <th>版本参考</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ频道组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-qq-guild/" target="_blank">📕前往手册</a></td>
-<td>
-<a href="https://docs.simbot.forte.love/components/qq-guild/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-kook/releases">
-<img alt="QQ频道 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-qq-guild">
-</a>
-</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">KOOK(开黑啦)组件</a></td>
-<td><a href="https://component-kook.simbot.forte.love/" target="_blank">📕前往手册</a></td>
-<td>
-<a href="https://docs.simbot.forte.love/components/kook/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-kook/releases">
-<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kook">
-</a>
-</td>
-</tr>
-
-<!-- OB -->
-<tr>
-<td><a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-onebot">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/onebot/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-onebot/releases">
-<img alt="OneBot组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-onebot">
-</a>
-</td>
-</tr>
-
-<!-- Telegram -->
-<tr>
-<td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-telegram">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/telegram/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-telegram/releases">
-<img alt="Telegram组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-telegram">
-</a>
-</td>
-</tr>
-
-<!-- Discord -->
-<tr>
-<td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-discord">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/discord/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-discord/releases">
-<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
-</a>
-</td>
-</tr>
-
-<!-- kritor -->
-<tr>
-<td>🚧 <a href="https://github.com/simple-robot/simbot-component-kritor" target="_blank">Kritor组件</a></td>
-<td><a href="https://simple-robot.github.io/simbot-component-kritor">📕前往手册</a> (暂无，待建设)</td>
-<td><a href="https://docs.simbot.forte.love/components/kritor/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-kritor/releases">
-<img alt="Kritor组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kritor">
-</a>
-</td>
-</tr>
-
-<!-- 濒危 -->
-<tr>
-<td>⚠ <a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">mirai组件</a> <i>濒危</i></td>
-<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
-<td>
-<a href="https://docs.simbot.forte.love/components/mirai/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-mirai/releases">
-<img alt="Mirai组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-mirai">
-</a>
-</td>
-</tr>
-
-<!-- 已逝 -->
-<tr>
-<td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
-<td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-miyoushe-villa/releases">
-<img alt="米游社组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-miyoushe-villa">
-</a>
-</td>
-</tr>
-
-
-</tbody>
-
-</table>
 
 ## 组件库开发
 
