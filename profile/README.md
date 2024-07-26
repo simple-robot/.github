@@ -126,7 +126,7 @@
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-telegram" target="_blank">Telegram组件</a></td>
 <td>对接Telegram官方API的多平台组件库</td>
-<td><a href="https://simbot.forte.love/component-telegram.html">📕前往手册</a> (待建设)</td>
+<td><a href="https://simbot.forte.love/component-telegram.html">📕前往手册</a></td>
 <td><a href="https://docs.simbot.forte.love/components/telegram/">API文档</a>
 </td>
 <td>
@@ -140,7 +140,7 @@
 <tr>
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
 <td>对接Discord官方API的多平台组件库</td>
-<td><a href="https://simbot.forte.love/component-discord.html">📕前往手册</a> (待建设)</td>
+<td><a href="https://simbot.forte.love/component-discord.html">📕前往手册</a></td>
 <td><a href="https://docs.simbot.forte.love/components/discord/">API文档</a>
 </td>
 <td>
@@ -167,6 +167,7 @@
 -->
 
 <!-- 濒危 -->
+<!--
 <tr>
 <td>⚠ <a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">mirai组件</a> <i>濒危</i></td>
 <td>对接第三方开源框架Mirai的JVM平台组件库 <br /><i>（组件仅支持simbot3, 且此框架已经不再活跃甚至不再维护，因此组件库不再做跟进更新）</i></td>
@@ -180,8 +181,10 @@
 </a>
 </td>
 </tr>
+-->
 
 <!-- 已逝 -->
+<!--
 <tr>
 <td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
 <td>对接米游社大别野官方API的多平台组件库 <br /><i>米游社大别野已成为历史</i></td>
@@ -194,6 +197,7 @@
 </a>
 </td>
 </tr>
+-->
 
 </tbody>
 
