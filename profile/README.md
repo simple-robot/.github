@@ -81,15 +81,15 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ与QQ频道组件</a></td>
-<td>对接QQ官方API的多平台组件库，支持QQ群聊、单聊与QQ频道</td>
+<td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ机器人组件</a></td>
+<td>对接QQ官方API的QQ机器人多平台组件库，支持QQ群聊、单聊与QQ频道</td>
 <td><a href="https://simbot.forte.love/component-qq-guild.html" target="_blank">📕前往手册</a></td>
 <td>
 <a href="https://docs.simbot.forte.love/components/qq-guild/">API文档</a>
 </td>
 <td>
 <a href="https://github.com/simple-robot/simbot-component-kook/releases">
-<img alt="QQ频道 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-qq-guild">
+<img alt="QQ机器人 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-qq-guild">
 </a>
 </td>
 </tr>
