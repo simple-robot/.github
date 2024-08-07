@@ -80,6 +80,7 @@
   </tr>
 </thead>
 <tbody>
+<!-- QQ -->
 <tr>
 <td><a href="https://github.com/simple-robot/simbot-component-qq-guild/" target="_blank">QQ机器人组件</a></td>
 <td>对接QQ官方API的QQ机器人多平台组件库，支持QQ群聊、单聊与QQ频道</td>
@@ -94,20 +95,6 @@
 </td>
 </tr>
 
-<tr>
-<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">KOOK(开黑啦)组件</a></td>
-<td>对接KOOK官方API的多平台组件库</td>
-<td><a href="https://simbot.forte.love/component-kook.html" target="_blank">📕前往手册</a></td>
-<td>
-<a href="https://docs.simbot.forte.love/components/kook/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-kook/releases">
-<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kook">
-</a>
-</td>
-</tr>
-
 <!-- OB -->
 <tr>
 <td><a href="https://github.com/simple-robot/simbot-component-onebot" target="_blank">OneBot组件</a></td>
@@ -118,6 +105,21 @@
 <td>
 <a href="https://github.com/simple-robot/simbot-component-onebot/releases">
 <img alt="OneBot组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-onebot">
+</a>
+</td>
+</tr>
+
+<!-- KOOK -->
+<tr>
+<td><a href="https://github.com/simple-robot/simbot-component-kook" target="_blank">KOOK(开黑啦)组件</a></td>
+<td>对接KOOK官方API的多平台组件库</td>
+<td><a href="https://simbot.forte.love/component-kook.html" target="_blank">📕前往手册</a></td>
+<td>
+<a href="https://docs.simbot.forte.love/components/kook/">API文档</a>
+</td>
+<td>
+<a href="https://github.com/simple-robot/simbot-component-kook/releases">
+<img alt="KOOK(开黑啦)组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-kook">
 </a>
 </td>
 </tr>
