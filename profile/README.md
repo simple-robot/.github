@@ -168,41 +168,35 @@
 </tr>
 -->
 
-<!-- 濒危 -->
-<!--
-<tr>
-<td>⚠ <a href="https://github.com/simple-robot/simbot-component-mirai" target="_blank">mirai组件</a> <i>濒危</i></td>
-<td>对接第三方开源框架Mirai的JVM平台组件库 <br /><i>（组件仅支持simbot3, 且此框架已经不再活跃甚至不再维护，因此组件库不再做跟进更新）</i></td>
-<td><a href="https://component-mirai.simbot.forte.love/" target="_blank">📕前往手册</a></td>
-<td>
-<a href="https://docs.simbot.forte.love/components/mirai/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-mirai/releases">
-<img alt="Mirai组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-mirai">
-</a>
-</td>
-</tr>
--->
 
-<!-- 已逝 -->
-<!--
+<!-- 钉钉 -->
 <tr>
-<td>💀 <a href="https://github.com/simple-robot/simbot-component-miyoushe-villa" target="_blank"><del>米游社组件</del></a> <b>已逝</b></td>
-<td>对接米游社大别野官方API的多平台组件库 <br /><i>米游社大别野已成为历史</i></td>
-<td><a href="https://simple-robot.github.io/simbot-component-miyoushe-villa">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/miyoushe-villa/">API文档</a>
-</td>
-<td>
-<a href="https://github.com/simple-robot/simbot-component-miyoushe-villa/releases">
-<img alt="米游社组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-miyoushe-villa">
-</a>
-</td>
+<td>⏱️钉钉组件</td>
+<td>对接钉钉机器人的组件库。<br /> <b>暂无，期待贡献(☆▽☆) </b></td>
+<td>暂无</td>
+<td>暂无</td>
+<td>暂无</td>
 </tr>
--->
+
+<!-- 飞书 -->
+<tr>
+<td>⏱️飞书组件</td>
+<td>对接飞书机器人的组件库。<br /> <b>暂无，期待贡献(☆▽☆) </b></td>
+<td>暂无</td>
+<td>暂无</td>
+<td>暂无</td>
+</tr>
+
+<!-- 微信订阅号 -->
+<tr>
+<td>⏱️订阅号组件</td>
+<td>对接微信订阅号机器人的组件库。<br /> <b>暂无，期待贡献(☆▽☆) </b></td>
+<td>暂无</td>
+<td>暂无</td>
+<td>暂无</td>
+</tr>
 
 </tbody>
-
 </table>
 
 ## 走马观花
