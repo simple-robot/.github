@@ -143,12 +143,11 @@
 <td>🚧 <a href="https://github.com/simple-robot/simbot-component-discord" target="_blank">Discord组件</a></td>
 <td>对接Discord官方API的多平台组件库</td>
 <td><a href="https://simbot.forte.love/component-discord.html">📕前往手册</a></td>
-<td><a href="https://docs.simbot.forte.love/components/discord/">API文档</a>
+<td>
+    暂无
 </td>
 <td>
-<a href="https://github.com/simple-robot/simbot-component-discord/releases">
-<img alt="Discord组件 Releases" src="https://img.shields.io/github/v/release/simple-robot/simbot-component-discord">
-</a>
+    暂无
 </td>
 </tr>
 
