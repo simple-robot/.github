@@ -198,6 +198,13 @@
 </tbody>
 </table>
 
+## 开始使用
+
+前往 [应用手册](https://simbot.forte.love) 来了解如何安装、使用，或参考其中的快速开始等章节，并了解更多细节。
+
+我们也提供了一个 [在线项目生成器](https://codegen.simbot.forte.love)，可以快速生成一个 simbot 的整合项目包，
+前往生成或参考 [文档中描述](https://simbot.forte.love/codegen.html) 了解更多！
+
 ## 走马观花
 
 **Kotlin & simbot-core**
@@ -335,11 +342,11 @@ Discord: [点击加入Discord](https://discord.gg/eFB3HeBp9B)
 
 ### 教学视频
 
-你也许可以去 [这个B站视频](https://www.bilibili.com/video/BV1vA411o7A3/) 的所属合集中看看。
+你也许可以去 [这个B站视频合集](https://space.bilibili.com/2714954/channel/collectiondetail?sid=2082604) 中看看。
 
 ## 🙋 你在吗？
 
-你有在使用simbot吗? 通过为你的仓库 [添加 `simbot` 主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) 来告诉我们吧!
+你有在使用simbot吗? 通过为你的仓库 添加 `simbot` [主题](https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) (也就是 GitHub 的仓库tag) 来告诉我们吧! 
 
 ## 组件库开发
 
