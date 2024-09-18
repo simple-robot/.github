@@ -205,6 +205,13 @@
 我们也提供了一个 [在线项目生成器](https://codegen.simbot.forte.love)，可以快速生成一个 simbot 的整合项目包，
 前往生成或参考 [文档中描述](https://simbot.forte.love/codegen.html) 了解更多！
 
+## 积极反馈！
+
+核心库于各式各样的组件库体积庞大，我们很难面面俱到。如果你遇到了任何预期外的问题、错误，或有你想要却不支持的功能，欢迎随时积极地通过
+[issues](https://github.com/simple-robot/simpler-robot/issues/new/choose) 反馈你的问题或建议，
+也欢迎通过 [讨论区](https://github.com/orgs/simple-robot/discussions) 与我们积极交流、提出问题。
+我们也同样会积极地对你的反馈、建议或问题做出回应与交流！
+
 ## 走马观花
 
 **Kotlin & simbot-core**
