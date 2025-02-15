@@ -59,6 +59,14 @@
 - 🔥**组件化**，不仅易于支持组件间的协同与应用，也使得任意组件库的开发成为可能！
 - 🔥不仅仅是API调库侠！simbot提供**更完备的实现与更多高级功能**。<br /><small>屏蔽掉你不想知道的细节，让你更加专注于你的逻辑本身！<i>发送消息？`send` 就完事儿了！</i></small>
 
+
+## 开始使用
+
+前往 [应用手册](https://simbot.forte.love) 来了解如何安装、使用，或参考其中的快速开始等章节，并了解更多细节。
+
+我们也提供了一个 [在线项目生成器](https://codegen.simbot.forte.love)，可以快速生成一个 simbot 的整合项目包，
+前往生成或参考 [文档中描述](https://simbot.forte.love/codegen.html) 了解更多！
+
 ## 核心库
 
 核心库是所有组件的前置、标准API的制定者、也是绝大多数统一功能实现的地方。
@@ -197,13 +205,6 @@
 
 </tbody>
 </table>
-
-## 开始使用
-
-前往 [应用手册](https://simbot.forte.love) 来了解如何安装、使用，或参考其中的快速开始等章节，并了解更多细节。
-
-我们也提供了一个 [在线项目生成器](https://codegen.simbot.forte.love)，可以快速生成一个 simbot 的整合项目包，
-前往生成或参考 [文档中描述](https://simbot.forte.love/codegen.html) 了解更多！
 
 ## 积极反馈！
 
